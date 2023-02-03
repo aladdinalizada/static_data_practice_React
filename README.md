@@ -1,10 +1,10 @@
 # static_data_practice_React
 I used thie repo: 
 <br/>
-React-helmet
+  React-helmet
 <br/>
-React-Router-dom
+  React-Router-dom
 <br/>
-Formik -Yup
+  Formik -Yup
 <br/>
-Material Ui 
+  Material Ui 
